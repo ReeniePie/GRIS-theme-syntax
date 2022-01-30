@@ -1,0 +1,15 @@
+{
+  "name": "GRIS-theme-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A syntax theme based on the final level f the game GRIS",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "visiting https://github.com/ReeniePie/GRIS-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
